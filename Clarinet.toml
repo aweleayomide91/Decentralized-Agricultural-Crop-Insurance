@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/weather-oracle.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.yield-verification]
+path = 'contracts/yield-verification.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

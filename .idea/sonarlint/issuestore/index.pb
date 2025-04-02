@@ -9,3 +9,7 @@ M
 contracts/weather-oracle.clar,9/1/91996854794d2cec790d71498b2a388f98be7d49
 L
 tests/weather-oracle.test.ts,4/8/48ed39849482aa0c44e2c7a0e8fffba5f92614e5
+Q
+!contracts/yield-verification.clar,e/2/e21419cfc644308a4b6d9e82146986da32d075b9
+P
+ tests/yield-verification.test.ts,8/0/80c6f170543ec1b61e730ed057d8396b16b5c7ba
